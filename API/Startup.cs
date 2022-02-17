@@ -55,7 +55,7 @@ namespace API
         {
             app.UseMiddleware<ExceptionMiddleware>();
 
-            // Security tightening
+            // Security tightening;
             app.UseXContentTypeOptions();
             app.UseReferrerPolicy(opt => opt.NoReferrer());
             app.UseXXssProtection(opt => opt.EnabledWithBlockMode());
