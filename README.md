@@ -24,7 +24,7 @@ Project using ASP.NET Core 5.0, React v17/Typescript code style, Mobx
 
 - Error handling.
 
-- AutoMapper in ASP.NET Core.
+- AutoMapper in .NET Core.
 
 - UI using Semantic UI.
 
