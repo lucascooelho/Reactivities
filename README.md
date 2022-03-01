@@ -1,13 +1,14 @@
 # Reactivities
 
-Project using ASP.NET Core 5.0, React v17/Typescript code style, Mobx
+Reactivities is a real time application network built with .NET(C#) Core 5.0, React v17/Typescript code style, Mobx.
+
+This project contains a user authentication, activity management with real time comment (SignalR), photo upload/cropper and user profile management including following/followers system.
 
 [You can check the project here](https://appreactivities.herokuapp.com/ "heroku page")
 
 ![image](https://user-images.githubusercontent.com/14133479/156020332-de6b8e67-40ba-487a-a5ab-b6455507374c.png)
 
 * Axios
-* Semantic-ui
 * Net EF Related data
 
 - Multi-project solution using the .NET Core WebAPI and the React app using the DotNet CLI and the create-react-app utility.
